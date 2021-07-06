@@ -4,15 +4,15 @@
   "version": "1.0.0-beta-15",
   "license": "MIT",
   "author": {
-    "name": "marcosmoura",
-    "email": "marcosvmmoura@gmail.com"
+    "name": "smarano",
+    "email": "stefano.marano@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuematerial/vue-material.git"
+    "url": "git+https://github.com/smarano/vue-material.git"
   },
   "bugs": {
-    "url": "https://github.com/vuematerial/vue-material/issues"
+    "url": "https://github.com/smarano/vue-material/issues"
   },
   "files": [
     "dist",
